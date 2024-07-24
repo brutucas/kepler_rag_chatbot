@@ -9,7 +9,7 @@ The Kepler Education RAG (Retrieval-Augmented Generation) Chatbot project was de
 - **Clearer Navigation**: Facilitating easier navigation through courses and teacher information.
 - **Quicker Booking**: Accelerating the booking process for homeschooling families with academic advisors.
 
-![Kepler Education Logo](kepler_logo.png)
+![Kepler Education Logo](resources/kepler_logo.png)
 
 ## Initial Consultation and Needs Assessment
 
@@ -69,6 +69,6 @@ The project provided valuable insights and experience:
 - **Website Revamp**: Collaborate on future website improvements and enhancements.
 - **Ongoing Updates**: Continue to refine the chatbot based on user feedback and new information.
 
-![Johannes Kepler AI](johannes_kepler_thuglife.png)
+![Johannes Kepler AI](resources/johannes_kepler_thuglife.png)
 
 For more information or to contribute to the project, please feel free to contact me at benlucas6@gmail.com
